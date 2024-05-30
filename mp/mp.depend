@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1618816102 source:c:\users\bhalchandra\desktop\mp\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<process.h>
+
+1618816102 source:e:\sybtech\sem iv\mp\mp\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<process.h>
+
